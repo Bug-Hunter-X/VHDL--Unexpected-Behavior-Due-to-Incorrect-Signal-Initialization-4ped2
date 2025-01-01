@@ -1,0 +1,2 @@
+# VHDL Signal Initialization Bug
+This repository demonstrates a common VHDL bug related to the initialization of internal signals.  Incorrect initialization can lead to unexpected behavior and difficult-to-debug issues in your designs. The bug.vhdl file shows the problematic code, while bugSolution.vhdl presents the corrected version.  The problem lies in the initialization of the `internal_data` signal.
